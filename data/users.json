@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "username": "johnsingh123",
+    "password": "testpassword123",
+    "firstName": "john",
+    "lastName": "singh"
+  },
+  {
+    "id": "2",
+    "username": "tweety",
+    "password": "testpassword123",
+    "firstName": "tweety",
+    "lastName": "thakur"
+  },
+  {
+    "id": "3",
+    "username": "viratkohli",
+    "password": "password123",
+    "firstName": "virat",
+    "lastName": "kohli"
+  },
+  {
+    "id": "4",
+    "username": "cheemspandey",
+    "password": "cheems123",
+    "firstName": "cheems",
+    "lastName": "shiba"
+  }
+]
